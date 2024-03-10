@@ -1,0 +1,15 @@
+# R Markdown Document
+
+## Define Function
+
+```{r}
+sayHello <- function(name) {
+  return(paste("Hello,", name, "!"))
+}
+```
+
+## Call Function
+```{r}
+sayHello("Niklas")
+```
+

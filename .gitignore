@@ -130,17 +130,10 @@ venv.bak/
 .Rsession*
 
 # R Markdown intermediate files
-.Rmd
-*.Rmd
+
 *_files/
 *_cache/
 
-# R Markdown output files
-*.html
-*.pdf
-
-# R Notebook
-*.nb.html
 
 # Packrat
 /packrat/
