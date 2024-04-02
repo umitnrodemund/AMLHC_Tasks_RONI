@@ -151,3 +151,5 @@ renv.lock
 .Rhistory
 .RData
 .Ruserdata
+
+.csv
