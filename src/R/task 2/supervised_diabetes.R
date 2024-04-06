@@ -34,4 +34,4 @@ diabetes_clean <- diabetes %>% drop_na()
 # Describe
 describe(diabetes_clean) 
 
-# Note: After trying to debug why the R package manager cannot install a proper version of FSelector exceeding the time I can spend for this task I stop doing it with R here and continue with python
+# Note: After trying to debug why the R package manager cannot install a proper version of FSelector exceeding the time I can spend for this task I stop doing it with R here and continue with python.
