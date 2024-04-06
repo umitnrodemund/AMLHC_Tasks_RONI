@@ -2,7 +2,7 @@ library(Hmisc)
 library(ggplot2)
 library(dplyr)
 library(tidyr)
-diabetes <- read.csv("diabetes.csv")
+diabetes <- read.csv("../../data/diabetes.csv")
 
 # Note: This is an undocumented dataset. To find out the meaning of the columns, a jupyter notebook analyze_diabetes.ipynb has been used, it's results being known here
 # Note 2: Again I had issues with the R package manager, not being able to install a proper version of the requested package.
